@@ -18,7 +18,7 @@ I store my projects in a directory called **~/workspaces**
 ```bash
 cd ~
 cd workspaces
-git clone ...
+git clone git@github.com:stevefaeembra/dem_to_obj.git
 python3 -m venv ./dem_to_obj
 cd ./dem_to_obj
 source ./bin/activate
